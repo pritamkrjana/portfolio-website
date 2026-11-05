@@ -1,4 +1,3 @@
-
 // Mobile Menu
 const menuBtn = document.getElementById("menuBtn");
 const navLinks = document.getElementById("navLinks");
@@ -34,3 +33,4 @@ contactForm.addEventListener("submit", function(event) {
 // Dynamic Year
 document.getElementById("year").textContent =
     new Date().getFullYear();
+
